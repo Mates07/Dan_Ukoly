@@ -65,3 +65,5 @@ else {
 
     alter(2^2);
 } 
+
+let allowed = (age >= 18) ? true:false;
